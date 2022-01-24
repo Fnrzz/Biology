@@ -1,0 +1,13 @@
+@media screen and (max-width: 994px) {
+}
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
+}
+.btn {
+  border-radius: 15px;
+}
+section {
+  padding-top: 5rem;
+}
