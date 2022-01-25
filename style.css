@@ -5,6 +5,13 @@
   .jumbotron p {
     font-size: 16px;
   }
+  .img-custom {
+    width: 200px !important;
+  }
+}
+
+.img-custom {
+  width: 300px;
 }
 
 .jumbotron {
