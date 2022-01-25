@@ -8,6 +8,9 @@
   .img-custom {
     width: 180px;
   }
+  body {
+    font-size: 14px;
+  }
 }
 
 .jumbotron {
