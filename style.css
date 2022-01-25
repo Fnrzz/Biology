@@ -6,12 +6,8 @@
     font-size: 16px;
   }
   .img-custom {
-    width: 100px !important;
+    width: 50%;
   }
-}
-
-.img-custom {
-  width: 300px;
 }
 
 .jumbotron {
@@ -21,6 +17,6 @@
 .btn {
   border-radius: 15px;
 }
-section .container {
+section {
   padding-top: 5rem;
 }
