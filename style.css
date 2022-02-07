@@ -21,11 +21,10 @@
 
 body {
   font-family: 'Poppins', sans-serif;
-  background-color: #333744;
 }
 .jumbotron {
   padding-top: 6rem;
-  background-color: #93deff;
+  background-color: #e2edff;
 }
 .btn {
   border-radius: 15px;
